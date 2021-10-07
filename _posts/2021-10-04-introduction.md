@@ -2,6 +2,7 @@
 layout: page
 title: 'Introduction'
 excerpt: 'Te presentamos las actividades y lo que puedes esperar de este curso'
+date: 2010-10-04 10:00:00
 permalink: /introduction
 ---
 <div class="video">
