@@ -1,0 +1,19 @@
+---
+label: post-front-matter
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: permalink
