@@ -14,7 +14,7 @@ Praesent tristique magna sit amet purus gravida quis blandit turpis. A diam soll
 
 <figure class="full-width-image">
 
-<img src="">
+<img src="englishwithalejandra.github.io/uploads/pexels-photo-7422238.webp">
 
 </figure>
 
