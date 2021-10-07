@@ -4,14 +4,27 @@
 
 		{% for page in site.pages reversed %}
 		{% if page.path == "index.html" %}
-		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.menu-name }}</a></li>
 		{% endif %} {% endfor %}
 
 		{% for page in site.pages reversed %}
 
 		{% if page.title %}
 
-		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-name }}</a></li>
+		<!-- <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li> -->
+
+		{% endif %} {% endfor %}
+		{% for post in site.posts reversed %}
+		{% if post.path == "index.html" %}
+		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ post.title }}</a></li>
+		{% endif %} {% endfor %}
+
+		{% for post in site.posts reversed %}
+
+		{% if post.title %}
+
+		<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 		<!-- <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li> -->
 
 		{% endif %} {% endfor %}

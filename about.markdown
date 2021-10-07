@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: 'About English With Alejandra'
+menu-name: 'About'
 featured-image: ../images/pic13.jpg
 permalink: /about/
 ---
