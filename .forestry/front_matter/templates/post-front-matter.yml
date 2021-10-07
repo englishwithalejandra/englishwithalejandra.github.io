@@ -17,3 +17,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- _posts/activity-3.md
