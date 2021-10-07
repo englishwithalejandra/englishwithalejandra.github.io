@@ -9,7 +9,7 @@ permalink: /introduction
   <iframe class="video-frame" src="https://www.youtube.com/embed/EL-D9LrFJd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Turpis egestas integer eget aliquet nibh praesent tristique. Fames ac turpis egestas maecenas. In dictum non consectetur a erat. Urna cursus eget nunc scelerisque viverra mauris. Gravida quis blandit turpis cursus in hac. Morbi quis commodo odio aenean sed. Egestas erat imperdiet sed euismod nisi porta lorem mollis aliquam.
+Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Turpis egestas integer eget aliquet nibh praesent tristique. Fames ac turpis egestas maecenas. In dictum non consectetur a erat. Urna cursus eget nunc scelerisque viverra mauris. Gravida quis blandit turpis cursus in hac. Morbi quis commodo odio aenean sed. Egestas erat imperdiet sed euismod nisi porta lorem mollis aliquam.
 
 <figure class="full-width-image">
   <img src="https://images.unsplash.com/photo-1530047625168-4b29bfbbe1fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80">
