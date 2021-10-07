@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Introduction'
-excerpt: 'Esta es la introducción'
+excerpt: 'Te presentamos las actividades y lo que puedes esperar de este curso'
 permalink: /introduction
 ---
 <div class="video">

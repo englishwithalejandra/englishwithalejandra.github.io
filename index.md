@@ -1,7 +1,7 @@
 ---
 layout: home
 hero-image: images/english-with-alejandra-hero.jpg
-title: 'Home'
+title: 'English With Alejandra'
 main-title: 'Welcome to English with Alejandra :)'
 main-paragraph: '<p>this is amazing experience to learn about the family, the most important members of the society</p>
 
