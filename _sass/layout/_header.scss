@@ -18,12 +18,18 @@
 			border-bottom: 0;
 			color: inherit;
 			font-weight: _font(weight-bold);
-			letter-spacing: _font(letter-spacing);
+			letter-spacing: .24rem;
+			// letter-spacing: _font(letter-spacing);
 			// margin: 0 0 (_size(element-margin) * 1.25) 0;
 			margin: 0 0 1rem 0;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
+			& .title{
+				font-size: .96rem;
+				position: relative;
+				top: .2rem;
+			}
 
 			> * {
 				display: inline-block;
