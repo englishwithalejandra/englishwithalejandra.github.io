@@ -10,7 +10,7 @@ Praesent tristique magna sit amet purus gravida quis blandit turpis. A diam soll
 
 <figure class="full-width-image">
 
-<img src="">
+<img src="/uploads/pexels-photo-7422238.webp">
 
 </figure>
 
