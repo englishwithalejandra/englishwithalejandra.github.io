@@ -8,6 +8,6 @@ permalink: "/introduction"
 ---
 <div class="video">
 
-<iframe src="https://www.youtube.com/embed/TZ6eC2EMstQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame" src="https://www.youtube.com/embed/TZ6eC2EMstQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
