@@ -6,6 +6,6 @@ date: 2010-10-04T10:00:00.000+00:00
 permalink: "/introduction"
 
 ---
-<div class="video"><iframe class="video-frame" src="https://youtu.be/TZ6eC2EMstQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe src="https://www.youtube.com/embed/TZ6eC2EMstQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="video"><iframe class="video-frame" src="https://youtu.be/YP9Nn-FHW2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
