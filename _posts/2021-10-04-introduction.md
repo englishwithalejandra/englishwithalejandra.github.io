@@ -1,18 +1,13 @@
 ---
 layout: page
-title: 'Introduction'
-excerpt: 'Te presentamos las actividades y lo que puedes esperar de este curso'
-date: 2010-10-04 10:00:00
-permalink: /introduction
+title: Introduction
+excerpt: Te presentamos las actividades y lo que puedes esperar de este curso
+date: 2010-10-04T10:00:00.000+00:00
+permalink: "/introduction"
+
 ---
+**READING**
+
 <div class="video">
-  <iframe class="video-frame" src="https://www.youtube.com/embed/EL-D9LrFJd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame" src="https://www.youtube.com/watch?v=TZ6eC2EMstQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus dictum at tempor commodo ullamcorper a. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Turpis egestas integer eget aliquet nibh praesent tristique. Fames ac turpis egestas maecenas. In dictum non consectetur a erat. Urna cursus eget nunc scelerisque viverra mauris. Gravida quis blandit turpis cursus in hac. Morbi quis commodo odio aenean sed. Egestas erat imperdiet sed euismod nisi porta lorem mollis aliquam.
-
-<figure class="full-width-image">
-  <img src="https://images.unsplash.com/photo-1530047625168-4b29bfbbe1fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80">
-</figure>
-
-Ut sem viverra aliquet eget sit amet. Id eu nisl nunc mi ipsum faucibus. Mi sit amet mauris commodo quis imperdiet. Tristique magna sit amet purus gravida quis. Consectetur libero id faucibus nisl tincidunt eget nullam non nisi. Vel pretium lectus quam id leo in vitae turpis. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Condimentum id venenatis a condimentum vitae sapien pellentesque. Libero nunc consequat interdum varius sit amet. Blandit massa enim nec dui nunc mattis enim ut tellus. Ut tellus elementum sagittis vitae. Pharetra sit amet aliquam id. Semper risus in hendrerit gravida rutrum quisque non tellus.
