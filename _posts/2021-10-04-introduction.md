@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-excerpt: Te presentamos las actividades y lo que puedes esperar de este curso
+excerpt: La familia en Inglés | Miembros de la familia en Inglés
 date: 2010-10-04T10:00:00.000+00:00
 permalink: "/introduction"
 
