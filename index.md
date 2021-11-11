@@ -5,8 +5,8 @@ title: English With Alejandra
 menu-name: Home
 main-title: Welcome to English with Alejandra :)
 main-paragraph: |-
-  <p>This is amazing experience to learn about the family, the most important members of the society.</p>
-  <p>Do you want to start this trip with me? in  this space you can practice different things and learn so much. Here you will find tasks to practice at home, I promise this space will be too funny!!</p>
+  <p>This is an amazing experience to learn about the family: the most important members of society.</p>
+  <p>Do you want to start this trip with me? in this space you can practice different things and learn so much. Here you will find tasks to practice at home, I promise this space will be very funny!</p>
 
 ---
 <header>
